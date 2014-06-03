@@ -1,0 +1,35 @@
+\contentsline {section}{\numberline {1}Litteraturreview}{3}
+\contentsline {subsection}{\numberline {1.1}Brooks, F. P., No silver bullet}{3}
+\contentsline {subsubsection}{\numberline {1.1.1}Hovedpunkter}{3}
+\contentsline {subsubsection}{\numberline {1.1.2}Tanker og sp\IeC {\o }rgsm\IeC {\r a}l}{4}
+\contentsline {subsection}{\numberline {1.2}Ehn og Kyng, Cardboard computers}{5}
+\contentsline {subsubsection}{\numberline {1.2.1}Hovepunkter}{5}
+\contentsline {subsubsection}{\numberline {1.2.2}Tanker og sp\IeC {\o }rgsm\IeC {\r a}l}{6}
+\contentsline {section}{\numberline {2}Delrapport}{7}
+\contentsline {subsection}{\numberline {2.1}Abstract}{7}
+\contentsline {subsection}{\numberline {2.2}IT-projektets form\IeC {\r a}l og rammer}{7}
+\contentsline {subsubsection}{\numberline {2.2.1}Functionality}{7}
+\contentsline {subsubsection}{\numberline {2.2.2}Application domain}{7}
+\contentsline {subsubsection}{\numberline {2.2.3}Conditions}{7}
+\contentsline {subsubsection}{\numberline {2.2.4}Technology}{7}
+\contentsline {subsubsection}{\numberline {2.2.5}Objects}{7}
+\contentsline {subsubsection}{\numberline {2.2.6}Responsibility}{8}
+\contentsline {subsection}{\numberline {2.3}Kravspecifikation for IT-l\IeC {\o }sningen}{8}
+\contentsline {subsubsection}{\numberline {2.3.1}Funktionelle krav}{8}
+\contentsline {subsubsection}{\numberline {2.3.2}Ikke-funktionelle krav}{8}
+\contentsline {subsubsection}{\numberline {2.3.3}Use-case model}{9}
+\contentsline {subsubsection}{\numberline {2.3.4}Specificerede use-cases}{9}
+\contentsline {subsubsection}{\numberline {2.3.5}Klassediagram}{11}
+\contentsline {subsubsection}{\numberline {2.3.6}Sekvens-diagrammer}{12}
+\contentsline {subsection}{\numberline {2.4}Systemdesign sammenfatning}{13}
+\contentsline {subsubsection}{\numberline {2.4.1}System-design resume}{13}
+\contentsline {subsubsection}{\numberline {2.4.2}Udest\IeC {\r a}ende design- og implementationsopgaver}{13}
+\contentsline {subsection}{\numberline {2.5}Program- og systemtest}{13}
+\contentsline {subsection}{\numberline {2.6}Brugergr\IeC {\ae }nseflade og interaktionsdesign}{14}
+\contentsline {subsection}{\numberline {2.7}Versionsstyring}{16}
+\contentsline {subsubsection}{\numberline {2.7.1}Vigtigste \IeC {\ae }ndringer}{17}
+\contentsline {subsection}{\numberline {2.8}Projektsamarbejdet}{17}
+\contentsline {subsubsection}{\numberline {2.8.1}Hvad g\IeC {\r a}r godt?}{17}
+\contentsline {subsubsection}{\numberline {2.8.2}Hvad g\IeC {\r a}r mindre godt?}{18}
+\contentsline {subsubsection}{\numberline {2.8.3}Effektivisering af udviklingsarbejde}{18}
+\contentsline {section}{\numberline {3}Referencer}{18}
